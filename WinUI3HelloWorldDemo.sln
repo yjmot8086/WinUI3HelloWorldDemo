@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinUI3HelloWorldDemo", "WinUI3HelloWorldDemo.csproj", "{7EA7B381-1996-435D-8D05-8470E198781A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EA7B381-1996-435D-8D05-8470E198781A}.Debug|x64.ActiveCfg = Debug|x64
+		{7EA7B381-1996-435D-8D05-8470E198781A}.Debug|x64.Build.0 = Debug|x64
+		{7EA7B381-1996-435D-8D05-8470E198781A}.Debug|x64.Deploy.0 = Debug|x64
+		{7EA7B381-1996-435D-8D05-8470E198781A}.Release|x64.ActiveCfg = Release|x64
+		{7EA7B381-1996-435D-8D05-8470E198781A}.Release|x64.Build.0 = Release|x64
+		{7EA7B381-1996-435D-8D05-8470E198781A}.Release|x64.Deploy.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38F2A5D6-B9E5-4477-9490-AEF8FF90D65F}
+	EndGlobalSection
+EndGlobal
